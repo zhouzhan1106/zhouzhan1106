@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 👭 自助加微信编程群：<a target="_blank" href="https://images.cnblogs.com/cnblogs_com/zhou1106/1804028/o_220210145838_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg">公众号『 程序猿媛』</a>
 - 👬 QQ 千人编程交流群：137620356 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=uEngWPKM1BesuUlRH2e86AoDorOSn70t&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="程序猿媛" title="程序猿媛"></a>
 - 刷题：<a href="https://leetcode-cn.com/u/ronniezhou/" target="_blank">力扣</a>
-- 刷题：<a href="https://greasyfork.org/zh-CN/users/671521-%E4%BC%9A%E5%8F%91%E5%85%89%E7%9A%84%E4%BD%A0" target="_blank">Greasy Fork</a>
+- 脚本：<a href="https://greasyfork.org/zh-CN/users/671521-%E4%BC%9A%E5%8F%91%E5%85%89%E7%9A%84%E4%BD%A0" target="_blank">Greasy Fork</a>
 ## 今年汇总 
 <a href="https://github.com/zhouzhan1106">
 
