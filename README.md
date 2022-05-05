@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 🐧 编程知识博主
 - 👨‍💻 关于我：<a href="https://space.bilibili.com/451551665" target="_blank">19 线程序员小 UP</a>
 - 🏡 作品：<a href="https://blog.csdn.net/RONNIE_Zz" target="_blank">blog我的博客(大部分博文和资源)</a> | <a href="https://www.douyin.com/user/MS4wLjABAAAAm2BN913ma0vwUkt5-h_XSQ6PebX4zZLZ5MBR2LelS_c" target="_blank">vlog日常</a> | <a href="https://www.cnblogs.com/zhou1106/gallery/image/406245.html" target="_blank">resource免费资源都在公众号cxyy1106</a> | <a href="https://github.com/zhouzhan1106" target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://images.cnblogs.com/cnblogs_com/zhou1106/1804028/o_220210145838_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" target="_blank">公众号『 程序猿媛』</a>
+- 🌱 干货：<a href="https://images.cnblogs.com/cnblogs_com/zhou1106/1804028/o_220210145838_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" target="_blank">公众号cxyy1106</a>
 - 😺 视频：<a href="https://space.bilibili.com/451551665" target="_blank">B站</a> |<a href="https://images.cnblogs.com/cnblogs_com/zhou1106/1804028/o_220210155010_%E6%8A%96%E9%9F%B3.jpg" target="_blank">『 抖音 会发光的你』</a> |<a href="https://media.om.qq.com/author?id=M5oBSdwif4T6seWndAFI4NZA0" target="_blank">视频剪辑号</a>
 - 💬 mail：
 - 🤔 问题：<a href="https://www.zhihu.com/people/zhouzhan1106" target="_blank">知乎 @会发光的你</a>
-- 👭 自助加微信编程群：<a target="_blank" href="https://images.cnblogs.com/cnblogs_com/zhou1106/1804028/o_220210145838_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg">公众号</a>
+- 👭 自助加微信编程群：<a target="_blank" href="https://images.cnblogs.com/cnblogs_com/zhou1106/1804028/o_220210145838_%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg">公众号cxyy1106</a>
 - 👬 QQ 千人编程交流群：137620356 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=uEngWPKM1BesuUlRH2e86AoDorOSn70t&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="公众号" title="公众号"></a>
 - 刷题：<a href="https://leetcode-cn.com/u/ronniezhou/" target="_blank">力扣</a>
 - 脚本：<a href="https://greasyfork.org/zh-CN/users/671521-%E4%BC%9A%E5%8F%91%E5%85%89%E7%9A%84%E4%BD%A0" target="_blank">Greasy Fork</a>
