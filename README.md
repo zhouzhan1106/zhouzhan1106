@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="灵舒 的 首页访问次数(旧版)"></div>
 ## 我是灵舒🐟
 - 🐧 编程知识博主
 - 👨‍💻 twitter：<a href="https://twitter.com/hJ18o33O5bwnrCv" target="_blank">twitter</a>
