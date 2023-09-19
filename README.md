@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="灵舒 的 首页访问次数(旧版)"></div>
+
 <!--
 **zhouzhan1106/zhouzhan1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 脚本：<a href="https://greasyfork.org/zh-CN/users/671521-%E4%BC%9A%E5%8F%91%E5%85%89%E7%9A%84%E4%BD%A0" target="_blank">Greasy Fork</a>
 ## 今年汇总 
 <a href="https://github.com/zzylingshu">
+<div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="灵舒 的 首页访问次数(旧版)"></div>
 
   <img align="center" height="137px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zzylingshu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
