@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## 我是灵舒🐟
 - 🐧 编程知识博主
-- 👨‍💻 twitter：<a href="https://twitter.com/hJ18o33O5bwnrCv" target="_blank">twitter</a>
 - 💻 Facebook：<a href="https://www.facebook.com/profile.php?id=100087554907925" target="_blank">Facebook</a>
 - 💻 ins：<a href="https://www.instagram.com/lingshu1106/" target="_blank">ins</a>
 - 👨‍💻 关于我：<a href="https://space.bilibili.com/451551665" target="_blank">19 线程序员小 UP</a>
